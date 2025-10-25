@@ -1,4 +1,4 @@
-from constants import ADMIN_USERNAME, UNKNOWN_COMMAND
+from guess_number_func.constants import ADMIN_USERNAME, UNKNOWN_COMMAND
 
 
 def access_control(func):
